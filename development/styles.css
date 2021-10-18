@@ -140,6 +140,12 @@ Social Menu
     display: block;
     padding-left: 25%;
 }
+
+/*-------------
+Social Menu End
+---------------*/
+
+
 /* ----------
 Banner Section
 --------------*/
@@ -199,10 +205,14 @@ p{
     letter-spacing: 6px;
     box-shadow: crimson;
 }
+/*----------------
+Banner Section End
+------------------*/
 
 /* -------------
 Section About Us
 ----------------*/
+
 
 .row{
     margin-left: 60px;
@@ -244,6 +254,10 @@ Section About Us
     height: 100%;
     object-fit: cover;
 }
+
+/*---------------
+About Section End
+-----------------*/
 
 /*---------------
 testimonials section
@@ -322,6 +336,11 @@ testimonials section
     font-weight: 600;
 }
 
+/*---------------------
+Testimonial Section End
+-----------------------*/
+
+
 /* ----------
 Contact section
 -------------*/
@@ -370,47 +389,6 @@ form button{
     font-size: 1em;
     padding: 0px 10px;
     border-radius: 10px;
-}
-/*form{
-    background: url(../img/bg3.jpg);
-    margin-left: 50px;
-    padding: 75px 50px;
-    box-shadow: 0 15px 50px rgba(0,0,0,0.1);
-    max-width: 500px;
-    max-height: 600px;
-    margin-top: 50px;
-}
-form h2{
-    margin-bottom: 20px;
-    font-size: 2em;
-}
-form input{ 
-    display: flex;
-    flex-direction: column;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    width: 100%;
-    border: 1px solid #555;
-    padding: 10px;
-    color: #111;
-    outline: none;
-    font-size: 16px;
-    font-weight: 300;
-    resize: none;
-}
-form .inputbox input{
-    max-width: 60px;
-}
-    
-form textarea{
-    width: 100%;
-    height: 100px;
-}
-    
-form button{
-    max-width: 100px;
-    font-size: 1em;
-    padding: 0px 10px;
 }
 
 /*------
