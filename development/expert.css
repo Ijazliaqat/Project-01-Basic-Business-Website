@@ -1,3 +1,6 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Italianno&display=swap');
+
 *{
     margin: 0;
     padding: 0;
@@ -115,8 +118,8 @@ Social Menu
 
 .social-menu li a i{
     position: absolute;
-    top: 17px;
-    left: 20px;
+    top: 10px;
+    left: 22px;
     font-size: 27px;
 }
 
@@ -148,9 +151,13 @@ Our Expert
 ----------*/
 
 .expert .title h2{
+    font-family: 'Italianno', cursive;
+    font-size: 80px;
+    letter-spacing: 3px;
+    color: green;
     display: flex;
     justify-content: center;
-    font-size: 2em;
+   
     margin-top: 200px;
 }
 .expert .content{
@@ -191,62 +198,6 @@ Our Expert
     color: #111;
 }
 
-/*-------------
-contact section
---------------*/
-
-.contact{
-    margin-top: 100px;
-    background: url(../img/bg3.jpg);
-    background-size: cover;
-}
-
-.contact .title{
-    text-align: center;
-    font-weight: 700;
-}
-form{
-    background: url(../img/bg4.jpg);
-    margin-left: 50px;
-    padding: 75px 50px;
-    background: #fff;
-    box-shadow: 0 15px 50px rgba(0,0,0,0.1);
-    max-width: 500px;
-    max-height: 600px;
-    margin-top: 50px;
-}
-form h2{
-    margin-bottom: 20px;
-    font-size: 1.5em;
-}
-form input{ 
-    display: flex;
-    flex-direction: column;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    width: 100%;
-    border: 1px solid #555;
-    padding: 10px;
-    color: #111;
-    outline: none;
-    font-size: 16px;
-    font-weight: 300;
-    resize: none;
-}
-form .inputbox input{
-    max-width: 60px;
-}
-
-form textarea{
-   width: 100%;
-   height: 100px;
-}
-
-form button{
-    max-width: 100px;
-    font-size: 1em;
-    padding: 0px 10px;
-}
 
 /*------
 Footer
