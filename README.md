@@ -14,6 +14,6 @@ Technologies Used:
     
 Ideas for future improvement:
  
- i) can be improved by adding audio at the background of banner.
- ii) can be improved by adding a button (Explore More) when user press the bellow sections of banner display     only when button pressed by person.
+ i) Can be improved by adding audio at the background of banner.
+ ii) can be improved by adding a button (Explore More) when user press the bellow sections of banner display only when button pressed by person.
  iii) improved by adding sliding affect for menu item, when user scroll down page page.
