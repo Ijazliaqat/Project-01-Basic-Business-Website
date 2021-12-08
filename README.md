@@ -3,7 +3,7 @@ Name:
        Ijaz Liaqat
 
 Overview of Project:
-        Basic Business Website designed by HTML5, CSS3 and JavaScript.
+        Basic Business Website designed in HTML5, CSS3 and JavaScript.
 
 Details:
         The header contains JavaScript function to change the background while scrolling page down.
